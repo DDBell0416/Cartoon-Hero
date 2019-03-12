@@ -1,0 +1,48 @@
+html, body{
+	font-family: Arial;
+	margin:10px;
+	background-color: #bca827
+}
+
+header{
+	background-color: #bca827;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+	font-style: italic;
+
+}
+
+header img{
+	border-radius: 150px;
+	width: 400px;
+	border: 10px solid white;
+
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: #bca827
+
+}
+
+p.caption{font-size: 16px
+	color:white
+	font-style: italic;
+}
+
+
+
+footer{padding: 40px 20px
+	   background-color: grey;
+}
+
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Kanta Mizuno<br>The Demon of the Desert
+		</header>*/
